@@ -1,4 +1,4 @@
-🇬🇧<p style="text-align: center;">**[Russian](README_en.md)** / **[English](README.md)**</p>
+🇬🇧<p style="text-align: center;">**[Russian](README.md)** / **[English](README_en.md)**</p>
 
 ---
 
